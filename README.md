@@ -32,3 +32,6 @@ Example:
 	
 	 "ADDL_INSTALLED_APPS": [ "lms.djangoapps.my_login" ],
    	 "REGISTRATION_EXTENSION_FORM": "lms.djangoapps.my_login.forms.UserForm", 
+	 
+Ref Link
+https://edx.readthedocs.io/projects/edx-installing-configuring-and-running/en/latest/configuration/customize_registration_page.html
